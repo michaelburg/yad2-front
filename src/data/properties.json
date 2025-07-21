@@ -1,0 +1,1331 @@
+[
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "גבעת הרמבם"
+      },
+      "street": {
+        "text": "רמב\"ם"
+      },
+      "house": {
+        "number": 1,
+        "floor": 3
+      },
+      "coords": {
+        "lon": 34.802287,
+        "lat": 32.070952
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 6200,
+    "token": "k5zy1q99",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 60,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202506/20/2_2/o/y2_1pa_010673_20250620150717.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202506/20/2_2/o/y2_1pa_010673_20250620150717.jpeg",
+        "https://img.yad2.co.il/Pic/202506/20/2_2/o/y2_1pa_010784_20250620150724.jpeg",
+        "https://img.yad2.co.il/Pic/202506/20/2_2/o/y2_1pa_010852_20250620150735.jpeg",
+        "https://img.yad2.co.il/Pic/202506/20/2_2/o/y2_1pa_010777_20250620150745.jpeg",
+        "https://img.yad2.co.il/Pic/202506/20/2_2/o/y2_1pa_010606_20250620150758.jpeg"
+      ],
+      "squareMeterBuild": 60
+    },
+    "orderId": 55546300,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "קרית יוסף"
+      },
+      "street": {
+        "text": "קרית יוסף"
+      },
+      "house": {
+        "number": 5,
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.802616,
+        "lat": 32.076085
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 6600,
+    "token": "5a44h5ae",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3.5,
+      "squareMeter": 83,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010021_20250626101138.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010021_20250626101138.jpeg",
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010519_20250626101138.jpeg",
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010331_20250626101138.jpeg",
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010880_20250626101138.jpeg",
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010847_20250626101138.jpeg",
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010585_20250626101138.jpeg",
+        "https://img.yad2.co.il/Pic/202506/26/2_2/o/y2_1pa_010029_20250626101138.jpeg"
+      ],
+      "squareMeterBuild": 83
+    },
+    "orderId": 55568989,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "פועלי הרכבת"
+      },
+      "street": {
+        "text": "כצנלסון"
+      },
+      "house": {
+        "number": 131,
+        "floor": 4
+      },
+      "coords": {
+        "lon": 34.816122,
+        "lat": 32.076559
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 6200,
+    "token": "2fogybt7",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 86,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1_08640_20250629220614.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1_08640_20250629220614.jpeg",
+        "https://img.yad2.co.il/Pic/202506/22/2_2/o/y2_1pa_010552_20250622171429.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_3_03112_20250629220619.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_4_06188_20250629220623.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_5_02802_20250629220628.jpeg",
+        "https://img.yad2.co.il/Pic/202506/22/2_2/o/y2_6_09209_20250622172933.jpeg",
+        "https://img.yad2.co.il/Pic/202506/22/2_2/o/y2_1pa_010825_20250622171634.jpeg",
+        "https://img.yad2.co.il/Pic/202506/23/2_2/o/y2_9_09683_20250623074407.jpeg",
+        "https://img.yad2.co.il/Pic/202506/23/2_2/o/y2_10_01860_20250623074411.jpeg"
+      ]
+    },
+    "orderId": 55551570,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "תל גנים"
+      },
+      "street": {
+        "text": "קפלנסקי"
+      },
+      "house": {
+        "number": 51,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.81911,
+        "lat": 32.062452
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5900,
+    "token": "zo4fxv64",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 80,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010404_20250706153430.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010404_20250706153430.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010967_20250706153429.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010462_20250706153429.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010120_20250706153429.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010483_20250706153429.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010236_20250706153430.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010822_20250706153430.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010654_20250706153434.jpeg"
+      ],
+      "squareMeterBuild": 80
+    },
+    "orderId": 55616319,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "כצנלסון"
+      },
+      "house": {
+        "number": 144,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.816918,
+        "lat": 32.075555
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5100,
+    "token": "z7lalohc",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 57,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010744_20250709084827.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010744_20250709084827.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010055_20250709084829.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010159_20250709084831.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010204_20250709084832.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010083_20250709084833.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010998_20250709084834.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010352_20250709084835.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010461_20250709084835.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010801_20250709084836.jpeg"
+      ],
+      "squareMeterBuild": 57
+    },
+    "orderId": 55631686,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "ארלוזורוב"
+      },
+      "street": {
+        "text": "ניצנה"
+      },
+      "house": {
+        "number": 18,
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.813513,
+        "lat": 32.069761
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5000,
+    "token": "41p64mbz",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 70,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010590_20250710234058.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010590_20250710234058.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010740_20250710234231.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010956_20250710234304.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010171_20250710234342.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010599_20250710234420.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010222_20250710234605.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010032_20250710234649.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010099_20250710235520.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_2/o/y2_1pa_010161_20250710235640.jpeg"
+      ],
+      "squareMeterBuild": 70
+    },
+    "orderId": 55641249,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "כצנלסון"
+      },
+      "house": {
+        "number": 88,
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.811118,
+        "lat": 32.075507
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5400,
+    "token": "a2xy7i2d",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 60,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010951_20250703171812.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010951_20250703171812.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010641_20250703171812.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010269_20250703171814.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010938_20250703171813.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010152_20250703171813.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010015_20250703171823.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010253_20250703171823.jpeg"
+      ],
+      "video": "https://s3.eu-west-1.amazonaws.com/videos.yad2.co.il/Video/202507/03/2_2/o/y2_1_010081_20250703171846.mp4",
+      "squareMeterBuild": 60
+    },
+    "orderId": 55605711,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "שיינקין"
+      },
+      "house": {
+        "number": 30,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.812288,
+        "lat": 32.074377
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 6700,
+    "token": "ztzi4t4j",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 68,
+      "propertyCondition": {
+        "id": 2
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010622_20250629233829.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010622_20250629233829.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010558_20250629233830.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010667_20250629233830.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010517_20250629233832.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010066_20250629233833.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010630_20250629233836.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010946_20250629233836.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010715_20250629233836.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010536_20250629233838.jpeg",
+        "https://img.yad2.co.il/Pic/202506/29/2_2/o/y2_1pa_010476_20250629233838.jpeg"
+      ],
+      "squareMeterBuild": 68
+    },
+    "tags": [
+      {
+        "name": "נכס עורפי",
+        "id": 1002,
+        "priority": 1
+      },
+      {
+        "name": "קרוב לפארק",
+        "id": 1023,
+        "priority": 4
+      }
+    ],
+    "orderId": 55584001,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "המרי"
+      },
+      "house": {
+        "number": 24,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.814242,
+        "lat": 32.075088
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 6850,
+    "token": "9gr4qmwc",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3.5,
+      "squareMeter": 97,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_1_05079_20250701120041.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_1_05079_20250701120041.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_2_02089_20250701120045.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_3_05501_20250701120047.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_4_08237_20250701120050.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_5_05163_20250701120053.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_6_08148_20250701120057.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_7_03952_20250701120100.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_8_09534_20250701120103.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_9_06723_20250701120105.jpeg",
+        "https://img.yad2.co.il/Pic/202507/01/2_2/o/y2_10_03169_20250701120108.jpeg"
+      ],
+      "squareMeterBuild": 97
+    },
+    "orderId": 55577572,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "שיינקין"
+      },
+      "house": {
+        "number": 44,
+        "floor": 3
+      },
+      "coords": {
+        "lon": 34.813428,
+        "lat": 32.075312
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5500,
+    "token": "puneeqnt",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 72,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010821_20250703011756.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010821_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010738_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010492_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010654_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010335_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010118_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010567_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010363_20250703011756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010240_20250703011816.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010608_20250703011848.jpeg"
+      ],
+      "squareMeterBuild": 72
+    },
+    "orderId": 55602072,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "ארלוזורוב"
+      },
+      "street": {
+        "text": "גולומב"
+      },
+      "house": {
+        "number": 46,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.813771,
+        "lat": 32.068936
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 7000,
+    "token": "9phohai9",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 76,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010134_20250712173334.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010134_20250712173334.jpeg",
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010419_20250712173334.jpeg",
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010977_20250712173334.jpeg",
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010380_20250712173335.jpeg",
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010199_20250712173334.jpeg",
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010075_20250712173334.jpeg",
+        "https://img.yad2.co.il/Pic/202507/12/2_2/o/y2_1pa_010954_20250712173334.jpeg",
+        "https://img.yad2.co.il/Pic/202507/13/2_2/o/y2_8_03901_20250713092525.jpeg",
+        "https://img.yad2.co.il/Pic/202507/13/2_2/o/y2_9_01624_20250713092529.jpeg",
+        "https://img.yad2.co.il/Pic/202507/13/2_2/o/y2_10_05991_20250713092533.jpeg"
+      ],
+      "squareMeterBuild": 76
+    },
+    "orderId": 55645502,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "חברת חשמל"
+      },
+      "street": {
+        "text": "המאבק"
+      },
+      "house": {
+        "number": 4,
+        "floor": 4
+      },
+      "coords": {
+        "lon": 34.808386,
+        "lat": 32.065881
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5400,
+    "token": "7rf15mku",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 70,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010464_20250703183404.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010464_20250703183404.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010546_20250703183405.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010020_20250703183405.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010217_20250703183405.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010977_20250703183405.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_1pa_010543_20250703183405.jpeg"
+      ],
+      "video": "https://s3.eu-west-1.amazonaws.com/videos.yad2.co.il/Video/202507/03/2_2/o/y2_1_010940_20250703183329.mp4",
+      "squareMeterBuild": 70
+    },
+    "orderId": 55606150,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "גבעת הרמבם"
+      },
+      "street": {
+        "text": "אילת"
+      },
+      "house": {
+        "number": 1,
+        "floor": 3
+      },
+      "coords": {
+        "lon": 34.806751,
+        "lat": 32.070135
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 7000,
+    "token": "h5d5epx6",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 61,
+      "propertyCondition": {
+        "id": 2
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010608_20250709173656.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010608_20250709173656.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010898_20250709173705.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010220_20250709173717.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010701_20250709173725.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010514_20250709173733.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010828_20250709173742.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010121_20250709173754.jpeg",
+        "https://img.yad2.co.il/Pic/202507/09/2_2/o/y2_1pa_010696_20250709173802.jpeg"
+      ],
+      "squareMeterBuild": 61
+    },
+    "orderId": 55634874,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "שיינקין"
+      },
+      "house": {
+        "number": 44,
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.813428,
+        "lat": 32.075312
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5800,
+    "token": "iwvua2yv",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 67,
+      "propertyCondition": {
+        "id": 2
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010422_20250704205747.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010422_20250704205747.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010397_20250704205756.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010285_20250704210102.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010443_20250704210234.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010456_20250704210129.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010502_20250704205850.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010705_20250704205901.jpeg",
+        "https://img.yad2.co.il/Pic/202507/04/2_2/o/y2_1pa_010469_20250704210334.jpeg"
+      ],
+      "video": "https://s3.eu-west-1.amazonaws.com/videos.yad2.co.il/Video/202507/04/2_2/o/y2_1_010370_20250704210521.mp4",
+      "squareMeterBuild": 67
+    },
+    "tags": [
+      {
+        "name": "2 מרפסות",
+        "id": 1012,
+        "priority": 1
+      },
+      {
+        "name": "בניין משופץ",
+        "id": 1018,
+        "priority": 3
+      },
+      {
+        "name": "בהזדמנות",
+        "id": 1091,
+        "priority": 10
+      }
+    ],
+    "orderId": 55610102,
+    "priority": 3
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "הל\"ה"
+      },
+      "street": {
+        "text": "המלבן"
+      },
+      "house": {
+        "number": 1,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.80778,
+        "lat": 32.075116
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5000,
+    "token": "r7f9bgqw",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 50,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010967_20250702140936.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010967_20250702140936.jpeg",
+        "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010116_20250702140936.jpeg",
+        "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010881_20250702140936.jpeg",
+        "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010649_20250702140936.jpeg",
+        "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010731_20250702140936.jpeg",
+        "https://img.yad2.co.il/Pic/202507/02/2_2/o/y2_1pa_010286_20250702140936.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_7_01875_20250706100345.jpeg"
+      ]
+    },
+    "orderId": 55599084,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "הל\"ה"
+      },
+      "street": {
+        "text": "כצנלסון"
+      },
+      "house": {
+        "number": 32,
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.805384,
+        "lat": 32.075055
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 5700,
+    "token": "0vy0qdqs",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 80,
+      "propertyCondition": {
+        "id": 2
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202506/25/2_2/o/y2_1pa_010358_20250625152656.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202506/25/2_2/o/y2_1pa_010358_20250625152656.jpeg",
+        "https://img.yad2.co.il/Pic/202506/25/2_2/o/y2_1pa_010587_20250625152715.jpeg",
+        "https://img.yad2.co.il/Pic/202506/25/2_2/o/y2_1pa_010118_20250625152736.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_4_07742_20250703191418.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_2/o/y2_5_07185_20250703191424.jpeg"
+      ]
+    },
+    "tags": [
+      {
+        "name": "3 כיווני אוויר",
+        "id": 1007,
+        "priority": 1
+      },
+      {
+        "name": "נוף פתוח לעיר",
+        "id": 1006,
+        "priority": 1
+      }
+    ],
+    "priceBeforeTag": 6000,
+    "orderId": 55564692,
+    "priority": 2
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "שינקין"
+      },
+      "street": {
+        "text": "המרי"
+      },
+      "house": {
+        "number": 11,
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.815657,
+        "lat": 32.075137
+      }
+    },
+    "subcategoryId": 2,
+    "categoryId": 2,
+    "adType": "private",
+    "price": 6000,
+    "token": "vgp1q92o",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 82,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010298_20250706132148.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010298_20250706132148.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010927_20250706132153.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010549_20250706132205.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010451_20250706132225.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010333_20250706132238.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010393_20250706132246.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010239_20250706132250.jpeg",
+        "https://img.yad2.co.il/Pic/202507/06/2_2/o/y2_1pa_010954_20250706132304.jpeg"
+      ]
+    },
+    "orderId": 55615346,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "גבעת הרמבם"
+      },
+      "street": {
+        "text": "עברונה"
+      },
+      "house": {
+        "number": 9,
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.807971,
+        "lat": 32.069892
+      }
+    },
+    "subcategoryId": 6,
+    "categoryId": 2,
+    "adType": "commercial",
+    "price": 5300,
+    "token": "enktsr6h",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 75,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010089_20250605132114.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010089_20250605132114.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010667_20250605132117.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010322_20250605132114.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010852_20250605132118.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010185_20250605132114.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010398_20250605132114.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010982_20250605132117.jpeg",
+        "https://img.yad2.co.il/Pic/202506/05/2_6/o/y2_1pa_010301_20250605132117.jpeg"
+      ]
+    },
+    "customer": {
+      "agencyName": "נדלן ארץ ישראל",
+      "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/y2_1_06462_20200504100522.jpeg?t=1752417393277"
+    },
+    "orderId": 55488152,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "גבעת הרמבם"
+      },
+      "house": {
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.804938,
+        "lat": 32.069401
+      }
+    },
+    "subcategoryId": 6,
+    "categoryId": 2,
+    "adType": "commercial",
+    "price": 6000,
+    "token": "eoxzije6",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 60,
+      "propertyCondition": {
+        "id": 2
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/09/2_6/o/y2_1_cmtkpF2j65_20250709.jpg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/09/2_6/o/y2_1_cmtkpF2j65_20250709.jpg"
+      ],
+      "squareMeterBuild": 60
+    },
+    "customer": {
+      "agencyName": "תיווך יוקרה",
+      "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/y2_1_07544_20211025103518.jpeg?t=1752419906238"
+    },
+    "orderId": 55620951,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "street": {
+        "text": "שיינקין"
+      },
+      "house": {
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.8138990194175,
+        "lat": 32.0750096601942
+      }
+    },
+    "subcategoryId": 6,
+    "categoryId": 2,
+    "adType": "commercial",
+    "price": 5500,
+    "token": "uelmvi1u",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 2.5,
+      "squareMeter": 72,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_995449_20250708212610.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_995449_20250708212610.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_992771_20250708212612.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_991815_20250708212613.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_993099_20250708212612.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_992336_20250708212610.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_991475_20250708212602.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1pa_992416_20250708212615.jpeg"
+      ],
+      "squareMeterBuild": 72
+    },
+    "customer": {
+      "agencyName": "עד המפתח - תיווך ושיווק נדל\"ן",
+      "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/b1f3dc5b-93ec-4a6e-9de4-7826694e8893.jpeg?t=1752424255616"
+    },
+    "orderId": 55648402,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "street": {
+        "text": "כצנלסון"
+      },
+      "house": {
+        "floor": 2
+      },
+      "coords": {
+        "lon": 34.8104081317365,
+        "lat": 32.0757383532934
+      }
+    },
+    "subcategoryId": 6,
+    "categoryId": 2,
+    "adType": "commercial",
+    "price": 5700,
+    "token": "0txiwr2v",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 75,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010812_20250710091838.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010812_20250710091838.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010852_20250710091837.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010350_20250710091837.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010452_20250710091837.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010725_20250710091838.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010332_20250710091838.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010018_20250710091843.jpeg",
+        "https://img.yad2.co.il/Pic/202507/10/2_6/o/y2_1pa_010044_20250710091843.jpeg"
+      ],
+      "squareMeterBuild": 75
+    },
+    "customer": {
+      "agencyName": "עד המפתח - תיווך ושיווק נדל\"ן",
+      "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/b1f3dc5b-93ec-4a6e-9de4-7826694e8893.jpeg?t=1752428015836"
+    },
+    "orderId": 55637070,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "הל\"ה"
+      },
+      "street": {
+        "text": "הל\"ה"
+      },
+      "house": {
+        "floor": 1
+      },
+      "coords": {
+        "lon": 34.8052941690141,
+        "lat": 32.0733893943662
+      }
+    },
+    "subcategoryId": 6,
+    "categoryId": 2,
+    "adType": "commercial",
+    "price": 6700,
+    "token": "be8dd1e2",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3,
+      "squareMeter": 90,
+      "propertyCondition": {
+        "id": 2
+      }
+    },
+    "inProperty": {
+      "isAssetExclusive": true
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010479_20250703092413.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010479_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010612_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010580_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010323_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010215_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010502_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010554_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010580_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010990_20250703092413.jpeg",
+        "https://img.yad2.co.il/Pic/202507/03/2_6/o/y2_1pa_010785_20250703092414.jpeg"
+      ],
+      "squareMeterBuild": 90
+    },
+    "customer": {
+      "agencyName": "אדוה תיווך עם חיוך",
+      "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/y2_logo_sGHjikbeYT_20210218.jpg?t=1752428716681"
+    },
+    "orderId": 55602794,
+    "priority": 1
+  },
+  {
+    "address": {
+      "city": {
+        "text": "גבעתיים"
+      },
+      "area": {
+        "text": "אזור רמת גן וגבעתיים"
+      },
+      "neighborhood": {
+        "text": "תל גנים"
+      },
+      "street": {
+        "text": "משמר הירדן"
+      },
+      "house": {
+        "number": 1,
+        "floor": 3
+      },
+      "coords": {
+        "lon": 34.812288,
+        "lat": 32.062489
+      }
+    },
+    "subcategoryId": 6,
+    "categoryId": 2,
+    "adType": "commercial",
+    "price": 6950,
+    "token": "5jliily8",
+    "additionalDetails": {
+      "property": {
+        "text": "דירה"
+      },
+      "roomsCount": 3.5,
+      "squareMeter": 96,
+      "propertyCondition": {
+        "id": 3
+      }
+    },
+    "metaData": {
+      "coverImage": "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1_d7IRedhuIg_20250708.jpeg",
+      "images": [
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_1_d7IRedhuIg_20250708.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_2_uGwtFJGgcy_20250708.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_3_xbpUKHS5Uh_20250708.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_4_nVKPG_m4Ww_20250708.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_5_nnfSifGi0M_20250708.jpeg",
+        "https://img.yad2.co.il/Pic/202507/08/2_6/o/y2_6_u54QoWPaFx_20250708.jpeg"
+      ],
+      "video": "https://s3.eu-west-1.amazonaws.com/videos.yad2.co.il/Video/202506/18/2_6/o/y2_1_010214_20250618201009.mp4",
+      "squareMeterBuild": 96
+    },
+    "customer": {
+      "agencyName": "תיווך 1%",
+      "agencyLogo": "//images.yad2.co.il/Pic/TivMiniSite/823d3689-d0b2-48f5-bbcc-a1bab7a8b01e.png?t=1752429628824"
+    },
+    "tags": [
+      {
+        "name": "חניה",
+        "id": 1203,
+        "priority": 1
+      },
+      {
+        "name": "חבל לפספס",
+        "id": 1292,
+        "priority": 10
+      },
+      {
+        "name": "בהזדמנות",
+        "id": 1291,
+        "priority": 10
+      }
+    ],
+    "orderId": 55540454,
+    "priority": 3
+  }
+]
