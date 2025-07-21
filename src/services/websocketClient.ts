@@ -49,13 +49,19 @@ class WebSocketClient {
       this.emit('disconnected');
     });
 
-    this.socket.on('propertyUpdated', (data: PropertySocketResponse) => {
-      this.emit('propertyUpdated', data);
-    });
+    this.socket.on(
+      'propertyInteractionUpdated',
+      (data: PropertySocketResponse) => {
+        this.emit('propertyInteractionUpdated', data);
+      }
+    );
 
-    this.socket.on('propertyCreated', (data: PropertySocketResponse) => {
-      this.emit('propertyCreated', data);
-    });
+    this.socket.on(
+      'propertyInteractionCreated',
+      (data: PropertySocketResponse) => {
+        this.emit('propertyInteractionCreated', data);
+      }
+    );
 
     this.socket.on('connect_error', (error) => {
       console.error('WebSocket connection error:', error);
@@ -71,13 +77,16 @@ class WebSocketClient {
         return;
       }
 
-      this.socket.emit('getProperties', (response: PropertySocketResponse) => {
-        if (response.success) {
-          resolve(response);
-        } else {
-          reject(new Error(response.message || response.error));
+      this.socket.emit(
+        'getPropertyInteractions',
+        (response: PropertySocketResponse) => {
+          if (response.success) {
+            resolve(response);
+          } else {
+            reject(new Error(response.message || response.error));
+          }
         }
-      });
+      );
     });
   }
 
@@ -91,7 +100,7 @@ class WebSocketClient {
       }
 
       this.socket.emit(
-        'updateProperty',
+        'updatePropertyInteraction',
         data,
         (response: PropertySocketResponse) => {
           if (response.success) {

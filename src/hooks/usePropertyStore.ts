@@ -196,8 +196,9 @@ export function usePropertyStore(
       }
     };
 
-    websocketClient.on('propertyUpdated', handlePropertyUpdated);
-    return () => websocketClient.off('propertyUpdated', handlePropertyUpdated);
+    websocketClient.on('propertyInteractionUpdated', handlePropertyUpdated);
+    return () =>
+      websocketClient.off('propertyInteractionUpdated', handlePropertyUpdated);
   }, []);
 
   const getPropertiesByColumn = useCallback(
