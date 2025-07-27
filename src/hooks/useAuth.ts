@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { websocketClient } from '../services/websocketClient';
 import {
   formatAuthError,
   clearAuthStorage,
@@ -101,6 +102,10 @@ const useAuth = () => {
     (token: string, user: User) => {
       setAuthData(token, user);
       setAuthState(createAuthenticatedState(user));
+
+      // Update WebSocket client with the new token
+      websocketClient.setAuthToken(token);
+
       navigate('/');
     },
     [navigate, setAuthData]
@@ -114,6 +119,9 @@ const useAuth = () => {
       isLoading: false,
     }));
     clearAuthStorage();
+
+    // Clear WebSocket authentication on error
+    websocketClient.setAuthToken('');
   }, []);
 
   useEffect(() => {
@@ -129,6 +137,8 @@ const useAuth = () => {
             return;
           }
 
+          // Update WebSocket client with existing token
+          websocketClient.setAuthToken(token);
           setAuthState(createAuthenticatedState(user));
         } else {
           setAuthState((prev) => ({ ...prev, isLoading: false }));
@@ -152,11 +162,11 @@ const useAuth = () => {
           body: JSON.stringify(credentials),
         });
 
-        if (!response.token || !response.data) {
+        if (!response.data.token || !response.data.user) {
           throw new Error('Invalid response from server');
         }
 
-        handleAuthSuccess(response.token, response.data);
+        handleAuthSuccess(response.data.token, response.data.user);
       } catch (error) {
         handleAuthError(error);
       }
@@ -189,6 +199,10 @@ const useAuth = () => {
   const logout = useCallback(() => {
     clearAuthStorage();
     setAuthState(createUnauthenticatedState());
+
+    // Clear WebSocket authentication
+    websocketClient.setAuthToken('');
+
     navigate('/auth');
   }, [navigate]);
 
